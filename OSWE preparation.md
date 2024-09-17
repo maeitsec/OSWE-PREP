@@ -8,71 +8,71 @@ tags:
 - [ ] [Get comfortable with python requests library](https://requests.readthedocs.io/en/master/)
 - [ ] [Read Web Application Hacker’s handbook, again if you already did](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S)
 - [ ] Read the [OWASP Code Review Guide](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf)
-- [] [Get familiar with Burpsuite](https://portswigger.net/burp/communitydownload)
-- [] [Get familiar with regex](https://regex101.com/)
-- [] [Get hands on with OWASP top 10 2017 Vulnerabilities](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/)
-- [] [Vulnerable Apps for practice on OWASP](https://owasp.org/www-project-vulnerable-web-applications-directory/)
-- [] [Portswigger WebSecAcademy](https://portswigger.net/web-security)
-- [] [Practice code review skills - [ ] OWASP SKF](https://owasp.org/www-project-security-knowledge-framework/)
+- [ ] [Get familiar with Burpsuite](https://portswigger.net/burp/communitydownload)
+- [ ] [Get familiar with regex](https://regex101.com/)
+- [ ] [Get hands on with OWASP top 10 2017 Vulnerabilities](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/)
+- [ ] [Vulnerable Apps for practice on OWASP](https://owasp.org/www-project-vulnerable-web-applications-directory/)
+- [ ] [Portswigger WebSecAcademy](https://portswigger.net/web-security)
+- [ ] [Practice code review skills - [ ] OWASP SKF](https://owasp.org/www-project-security-knowledge-framework/)
 
 ---
 
 ### Before registering for the OSWE Exam:
 
 #### XSS to RCE
-- [] [AtMail Email Server Appliance 6.4 - [ ] Persistent Cross-Site Scripting](https://www.exploit-db.com/exploits/20009)
-- [] [Chaining XSS, CSRF to achieve RCE](https://rhinosecuritylabs.com/application-security/labkey-server-vulnerabilities-to-rce/)
-- [] [Code analysis to gaining RCE](https://sarthaksaini.com/2019/awae/xss-rce.html)
-- [] [Magento 2.3.1: Unauthenticated Stored XSS to RCE](https://blog.ripstech.com/2019/magento-rce-via-xss/)
-- [] [Mybb 18.20 From Stored XSS to RCE](https://medium.com/@knownsec404team/the-analysis-of-mybb-18-20-from-stored-xss-to-rce-7234d7cc0e72)
+- [ ] [AtMail Email Server Appliance 6.4 - [ ] Persistent Cross-Site Scripting](https://www.exploit-db.com/exploits/20009)
+- [ ] [Chaining XSS, CSRF to achieve RCE](https://rhinosecuritylabs.com/application-security/labkey-server-vulnerabilities-to-rce/)
+- [ ] [Code analysis to gaining RCE](https://sarthaksaini.com/2019/awae/xss-rce.html)
+- [ ] [Magento 2.3.1: Unauthenticated Stored XSS to RCE](https://blog.ripstech.com/2019/magento-rce-via-xss/)
+- [ ] [Mybb 18.20 From Stored XSS to RCE](https://medium.com/@knownsec404team/the-analysis-of-mybb-18-20-from-stored-xss-to-rce-7234d7cc0e72)
 
 #### Bypassing File Upload Restrictions:
 
-- [] [[Paper] File Upload Restrictions Bypass](https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf)
-- [] [Shell the web - [ ] Methods of a Ninja](http://www.securityidiots.com/Web-Pentest/hacking-website-by-shell-uploading.html)
-- [] [Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
-- [] [Atlassian Crowd Pre-auth RCE](https://www.corben.io/atlassian-crowd-rce/)
-- [] [Popcorn machine from HackTheBox](https://www.youtube.com/watch?v=NMGsnPSm8iw)
-- [] [Vault machine from HackTheBox](https://www.youtube.com/watch?v=LfbwlPxToBc)
+- [ ] [[Paper] File Upload Restrictions Bypass](https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf)
+- [ ] [Shell the web - [ ] Methods of a Ninja](http://www.securityidiots.com/Web-Pentest/hacking-website-by-shell-uploading.html)
+- [ ] [Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
+- [ ] [Atlassian Crowd Pre-auth RCE](https://www.corben.io/atlassian-crowd-rce/)
+- [ ] [Popcorn machine from HackTheBox](https://www.youtube.com/watch?v=NMGsnPSm8iw)
+- [ ] [Vault machine from HackTheBox](https://www.youtube.com/watch?v=LfbwlPxToBc)
 
 #### Authentication Bypass to RCE
 
-- [] [ATutor 2.2.1 Authentication Bypass](https://rebraws.github.io/ATutorAuthBypass/)
-- [] [ATutor LMS password_reminder TOCTOU Authentication Bypass](https://srcincite.io/advisories/src-2016-0009/)
-- [] [ATutor 2.2.1 - [ ] Directory Traversal / Remote Code Execution](https://www.exploit-db.com/exploits/39639)
-- [] [Cubecart Admin Authentication Bypass](https://blog.ripstech.com/2018/cubecart-admin-authentication-bypass/)
-- [] [Trendmicro smart protection bypass to RCE](https://underdefense.com/n-day-exploit-development-and-upgrade-to-rce/)
+- [ ] [ATutor 2.2.1 Authentication Bypass](https://rebraws.github.io/ATutorAuthBypass/)
+- [ ] [ATutor LMS password_reminder TOCTOU Authentication Bypass](https://srcincite.io/advisories/src-2016-0009/)
+- [ ] [ATutor 2.2.1 - [ ] Directory Traversal / Remote Code Execution](https://www.exploit-db.com/exploits/39639)
+- [ ] [Cubecart Admin Authentication Bypass](https://blog.ripstech.com/2018/cubecart-admin-authentication-bypass/)
+- [ ] [Trendmicro smart protection bypass to RCE](https://underdefense.com/n-day-exploit-development-and-upgrade-to-rce/)
 
 #### Password Reset Vulnerability
 
-- [] [Testing Password rest functionalities](http://imranparay.blogspot.com/2018/09/testing-password-reset-functionalities.html)
-- [] [OWASP - [ ] Forgot Password Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Forgot_Password_Cheat_Sheet.html)
-- [] [How we hacked multiple user accounts using weak reset tokens for passwords](https://blog.appsecco.com/mass-account-pwning-or-how-we-hacked-multiple-user-accounts-using-weak-reset-tokens-for-passwords-c2d6c0831377)
+- [ ] [Testing Password rest functionalities](http://imranparay.blogspot.com/2018/09/testing-password-reset-functionalities.html)
+- [ ] [OWASP - [ ] Forgot Password Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Forgot_Password_Cheat_Sheet.html)
+- [ ] [How we hacked multiple user accounts using weak reset tokens for passwords](https://blog.appsecco.com/mass-account-pwning-or-how-we-hacked-multiple-user-accounts-using-weak-reset-tokens-for-passwords-c2d6c0831377)
 
 #### SQL Injection:
 
-- [] [RCE with SQL Injection - [ ] MSSQL](https://medium.com/@notsoshant/a-not-so-blind-rce-with-sql-injection-13838026331e)
-- [] [SQL Injection to LFI to RCE - [ ] MySQL](https://medium.com/bugbountywriteup/sql-injection-to-lfi-to-rce-536bed29a862)
-- [] [From SQLi to SHELL (I and II) - [ ] PentesterLab](https://pentesterlab.com/exercises/from_sqli_to_shell_II/course)
-- [] [Pre-Auth Takeover of OXID eShops](https://blog.ripstech.com/2019/oxid-esales-shop-software/)
-- [] [Blind SQL Injection](https://www.acunetix.com/websitesecurity/blind-sql-injection/)
-- [] [[Paper] PostgreSQL Injection](https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf)
-- [] [Having Fun With PostgreSQL](http://www.leidecker.info/pgshell/Having_Fun_With_PostgreSQL.txt)
-- [] [Blind Postgresql Sql Injection Tutorial](https://dotcppfile.wordpress.com/2014/07/12/blind-postgresql-sql-injection-tutorial/)
-- [] [SQL Injection Cheat Sheet - [ ] PentestMonkey](http://pentestmonkey.net/category/cheat-sheet/sql-injection)
-- [] [SQL Injection Cheat Sheet - [ ] PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection)
-- [] [Exploiting H2 SQL injection to RCE](https://blog.ripstech.com/2019/dotcms515-sqli-to-rce/)  
+- [ ] [RCE with SQL Injection - [ ] MSSQL](https://medium.com/@notsoshant/a-not-so-blind-rce-with-sql-injection-13838026331e)
+- [ ] [SQL Injection to LFI to RCE - [ ] MySQL](https://medium.com/bugbountywriteup/sql-injection-to-lfi-to-rce-536bed29a862)
+- [ ] [From SQLi to SHELL (I and II) - [ ] PentesterLab](https://pentesterlab.com/exercises/from_sqli_to_shell_II/course)
+- [ ] [Pre-Auth Takeover of OXID eShops](https://blog.ripstech.com/2019/oxid-esales-shop-software/)
+- [ ] [Blind SQL Injection](https://www.acunetix.com/websitesecurity/blind-sql-injection/)
+- [ ] [[Paper] PostgreSQL Injection](https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf)
+- [ ] [Having Fun With PostgreSQL](http://www.leidecker.info/pgshell/Having_Fun_With_PostgreSQL.txt)
+- [ ] [Blind Postgresql Sql Injection Tutorial](https://dotcppfile.wordpress.com/2014/07/12/blind-postgresql-sql-injection-tutorial/)
+- [ ] [SQL Injection Cheat Sheet - [ ] PentestMonkey](http://pentestmonkey.net/category/cheat-sheet/sql-injection)
+- [ ] [SQL Injection Cheat Sheet - [ ] PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection)
+- [ ] [Exploiting H2 SQL injection to RCE](https://blog.ripstech.com/2019/dotcms515-sqli-to-rce/)  
 
 #### JavaScript Injection:
 
-- [] [Server Side JS Injection](https://ckarande.gitbooks.io/owasp-nodegoat-tutorial/content/tutorial/a1_-_server_side_js_injection.html)
-- [] [Remote Code Execution in math.js](https://capacitorset.github.io/mathjs/)
-- [] [Arbitrary code execution in fast-redact](https://itnext.io/how-i-exploited-a-remote-code-execution-vulnerability-in-fast-redact-9e69fa35572f)
-- [] [NVIDIA GeForce Experience OS Command Injection - [ ] CVE-2019-5678](https://rhinosecuritylabs.com/application-security/nvidia-rce-cve-2019-5678/)
-- [] [SetTimeout and SetInterval use eval therefore are evil](https://idiallo.com/javascript/settimeout-and-setinterval-and-setevil)
-- [] [Pentesting Node.js Application : Nodejs Application Security](https://www.websecgeeks.com/2017/04/pentesting-nodejs-application-nodejs.html)
-- [] [NodeJS remote debugging with vscode](https://maikthulhu.github.io/2019-05-17-remote-debugging-node-vscode/)
-- [] [Escape NodeJS Sandboxes](https://blog.netspi.com/escape-nodejs-sandboxes/)
+- [ ] [Server Side JS Injection](https://ckarande.gitbooks.io/owasp-nodegoat-tutorial/content/tutorial/a1_-_server_side_js_injection.html)
+- [ ] [Remote Code Execution in math.js](https://capacitorset.github.io/mathjs/)
+- [ ] [Arbitrary code execution in fast-redact](https://itnext.io/how-i-exploited-a-remote-code-execution-vulnerability-in-fast-redact-9e69fa35572f)
+- [ ] [NVIDIA GeForce Experience OS Command Injection - [ ] CVE-2019-5678](https://rhinosecuritylabs.com/application-security/nvidia-rce-cve-2019-5678/)
+- [ ] [SetTimeout and SetInterval use eval therefore are evil](https://idiallo.com/javascript/settimeout-and-setinterval-and-setevil)
+- [ ] [Pentesting Node.js Application : Nodejs Application Security](https://www.websecgeeks.com/2017/04/pentesting-nodejs-application-nodejs.html)
+- [ ] [NodeJS remote debugging with vscode](https://maikthulhu.github.io/2019-05-17-remote-debugging-node-vscode/)
+- [ ] [Escape NodeJS Sandboxes](https://blog.netspi.com/escape-nodejs-sandboxes/)
 
 #### PHP Type Juggling:
 
@@ -132,11 +132,11 @@ tags:
 
 #### XML External Entity (XXE) Attack
 
-- [] [A Deep Dive into XXE Injection](https://www.synack.com/blog/a-deep-dive-into-xxe-injection/)
-- [] [From XXE to RCE: Pwn2Win CTF 2018 Writeup](https://bookgin.tw/2018/12/04/from-xxe-to-rce-pwn2win-ctf-2018-writeup/)
-- [] [Blind XXE to RCE](https://www.ambionics.io/blog/oracle-peoplesoft-xxe-to-rce)
-- [] [Apache Flex BlazeDS XXE Vulnerabilty](https://codewhitesec.blogspot.com/2015/08/cve-2015-3269-apache-flex-blazeds-xxe.html)
-- [] [WebLogic EJBTaglibDescriptor XXE](https://medium.com/@knownsec404team/weblogic-ejbtaglibdescriptor-xxe-vulnerability-analysis-cve-2019-2888-bd649f5fcfa6)
+- [ ] [A Deep Dive into XXE Injection](https://www.synack.com/blog/a-deep-dive-into-xxe-injection/)
+- [ ] [From XXE to RCE: Pwn2Win CTF 2018 Writeup](https://bookgin.tw/2018/12/04/from-xxe-to-rce-pwn2win-ctf-2018-writeup/)
+- [ ] [Blind XXE to RCE](https://www.ambionics.io/blog/oracle-peoplesoft-xxe-to-rce)
+- [ ] [Apache Flex BlazeDS XXE Vulnerabilty](https://codewhitesec.blogspot.com/2015/08/cve-2015-3269-apache-flex-blazeds-xxe.html)
+- [ ] [WebLogic EJBTaglibDescriptor XXE](https://medium.com/@knownsec404team/weblogic-ejbtaglibdescriptor-xxe-vulnerability-analysis-cve-2019-2888-bd649f5fcfa6)
 
 #### Server Side Template Injection (SSTI)
 
@@ -148,14 +148,14 @@ tags:
 
 #### Websocekts InSecurity
 
-- [] [Introduction to WebSockets](https://portswigger.net/web-security/websockets)
-- [] [[Video] Hacking with Websocket - [ ] BlackHat](https://www.youtube.com/watch?v=-ALjHUqSz_Y)
-- [] [Remote Hardware takeover via Websocket Hijacking](https://www.netsparker.com/blog/web-security/remote-hardware-takeover-via-vulnerable-admin-software/)
-- [] [Cross-Site WebSocket Hijacking to full Session Compromise](https://www.notsosecure.com/how-cross-site-websocket-hijacking-could-lead-to-full-session-compromise/)
+- [ ] [Introduction to WebSockets](https://portswigger.net/web-security/websockets)
+- [ ] [[Video] Hacking with Websocket - [ ] BlackHat](https://www.youtube.com/watch?v=-ALjHUqSz_Y)
+- [ ] [Remote Hardware takeover via Websocket Hijacking](https://www.netsparker.com/blog/web-security/remote-hardware-takeover-via-vulnerable-admin-software/)
+- [ ] [Cross-Site WebSocket Hijacking to full Session Compromise](https://www.notsosecure.com/how-cross-site-websocket-hijacking-could-lead-to-full-session-compromise/)
 
 #### Source Code Audit
 
-- [x] [Introduction to Code Review [PentesterLab]](https://pentesterlab.com/exercises/codereview/course)
+- [ ] [Introduction to Code Review [PentesterLab]](https://pentesterlab.com/exercises/codereview/course)
 - [ ] [Static code analysis writeups](https://shells.systems/category/static-code-analysis/)
 - [ ] [TrendMicro - [ ] Secure Coding Dojo](https://trendmicro.github.io/SecureCodingDojo/codereview101/)
 - [ ] [Bug Hunting with Static Code Analysis [Video]](https://www.youtube.com/watch?v=Sb011qfbMkQ)
@@ -170,10 +170,10 @@ tags:
 
 #### Further References/Reviews
 
-- [] [From AWAE to OSWE the preperation guide - [ ] hansesecure](https://hansesecure.de/2019/08/from-awae-to-oswe-the-preperation-guide/?lang=en)
-- [] [OSWE Exam Review 2020 Notes gifts inside - [ ] 21y4d](https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside)
-- [] [OSWE Cheat Sheet - [ ] V1s3r1on](https://cyber-dragon.nl/2020/06/10/oswe-cheat-sheet/)
-- [] [wetw0rk/AWAE-PREP](https://github.com/wetw0rk/AWAE-PREP)
-- [] [https://codewhitesec.blogspot.com/](https://codewhitesec.blogspot.com/)
-- [] [https://blog.ripstech.com/](https://blog.ripstech.com/)
-- [] [https://rhinosecuritylabs.com](https://rhinosecuritylabs.com/)
+- [ ] [From AWAE to OSWE the preperation guide - [ ] hansesecure](https://hansesecure.de/2019/08/from-awae-to-oswe-the-preperation-guide/?lang=en)
+- [ ] [OSWE Exam Review 2020 Notes gifts inside - [ ] 21y4d](https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside)
+- [ ] [OSWE Cheat Sheet - [ ] V1s3r1on](https://cyber-dragon.nl/2020/06/10/oswe-cheat-sheet/)
+- [ ] [wetw0rk/AWAE-PREP](https://github.com/wetw0rk/AWAE-PREP)
+- [ ] [https://codewhitesec.blogspot.com/](https://codewhitesec.blogspot.com/)
+- [ ] [https://blog.ripstech.com/](https://blog.ripstech.com/)
+- [ ] [https://rhinosecuritylabs.com](https://rhinosecuritylabs.com/)
